@@ -1,0 +1,10 @@
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\bin\Debug\LinqQuery.exe.config
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\bin\Debug\LinqQuery.exe
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\bin\Debug\LinqQuery.pdb
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\bin\Debug\EntityFramework.dll
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\bin\Debug\EntityFramework.SqlServer.dll
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\bin\Debug\EntityFramework.xml
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\bin\Debug\EntityFramework.SqlServer.xml
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\obj\Debug\LinqQuery.csprojResolveAssemblyReference.cache
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\obj\Debug\LinqQuery.exe
+D:\JAN 2017 SEM 2\Shem\C# Projects\LinqQuery\LinqQuery\obj\Debug\LinqQuery.pdb
